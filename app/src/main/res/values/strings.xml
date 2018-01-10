@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Book On Travel</string>
+
+    <string name="fastest_route_despite_the_usual_traffic">Fastest route, despite the usual traffic.</string>
+    <string name="route_info">ROUTE INFO</string>
+    <string name="start">SET ALARM</string>
+
+    <string name="rationale_location">This app needs access to your location to know where you are.</string>
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="enable_gps_to_continue_further">Need GPS Service to Continue Further..</string>
+    <string name="enable_gps">Enable GPS</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-7815522616460887/3557735478</string>
+    <string name="order_now">Order Now</string>
+    <string name="order_items">Hotel Menu Will be Shown Here.</string>
+    <string name="rating">Rating : </string>
+    <string name="call_now">Call Now</string>
+
+</resources>

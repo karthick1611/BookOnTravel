@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="radius_entry">
+        <item>0.5 Kilometer</item>
+        <item>1 Kilometer</item>
+        <item>2 Kilometers</item>
+    </string-array>
+
+</resources>

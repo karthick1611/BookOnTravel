@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "989737339858",
+    "firebase_url": "https://c-fibernet-fd065.firebaseio.com",
+    "project_id": "c-fibernet-fd065",
+    "storage_bucket": "c-fibernet-fd065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989737339858:android:15ffa529753e3ef3",
+        "android_client_info": {
+          "package_name": "com.cherritech.bookontravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989737339858-br27g77stavr7a48n7vh6i1s9cenb8rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHg8AFhvTfuUomTuNEvFb-em0IKovQsI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

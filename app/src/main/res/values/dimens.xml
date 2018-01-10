@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="slide_desc">15sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+
+</resources>
